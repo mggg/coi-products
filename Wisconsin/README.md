@@ -15,3 +15,8 @@ This shapefile contains 1,191 polygons, one for each "area of interest" scraped 
 ## `shapefile_summary/`
 
 This shapefile includes 47 polygons—one for each of the 36 C clusters, and one for each of the 11 subclusters; the subclusters are redundant with the clusters. The key is the cluster ID, such as C14 or C14-1. (No other attributes.)
+
+
+## `submission_db.csv`
+
+A database of COI portal submissions (with approximate block group/block representations) used to generate geoclusters.
