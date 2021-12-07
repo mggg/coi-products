@@ -2,7 +2,7 @@
 
 ## `png/`
 
-A heatmap of each cluster, showing county boundaries (gray lines).  Shows the largest connected component (by block count) of the blocks involved in the cluster.  Insets are available for clusters that cover less than some percentage of the state's land area.
+A heatmap of each cluster, showing county boundaries (gray lines). Shows the largest connected component (by block count) of the blocks involved in the cluster. Insets are available for clusters that cover less than some percentage of the state's land area.
 
 ## `png_summary/`
 
@@ -10,7 +10,7 @@ This map of the state shows the number of each cluster placed at the weighted ce
 
 ## `shapefile_coi/`
 
-This shapefile contains 1,191 polygons, one for each "area of interest" scraped from the portal up to the end of August.  (We scraped 9/1 around midnight.) The key is a 4-digit [portal ID](https://portal.wisconsin-mapping.org/) with a suffix (-1, -2, ...) to denote each polygon in a submission. 
+This shapefile contains 1,191 polygons, one for each "area of interest" scraped from the portal up to the end of August. (We scraped 9/1 around midnight.) The key is a 4-digit [portal ID](https://portal.wisconsin-mapping.org/) with a suffix (-1, -2, ...) to denote each polygon in a submission. 
 
 ## `shapefile_summary/`
 
