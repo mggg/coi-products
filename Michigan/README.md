@@ -1,4 +1,4 @@
-# Wisconsin
+# Michigan
 
 ## `png/`
 
